@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157497265539",
+    "firebase_url": "https://lacchilcl.firebaseio.com",
+    "project_id": "lacchilcl",
+    "storage_bucket": "lacchilcl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157497265539:android:3427ec3e47e24443e1bab6",
+        "android_client_info": {
+          "package_name": "com.impeccablecreations.lcp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157497265539-r4i52fdq9gjp40o16955kmp3cd6gfeng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2O7f7PvI77bE1xP9KSRop41Za38jUt64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157497265539-r4i52fdq9gjp40o16955kmp3cd6gfeng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
